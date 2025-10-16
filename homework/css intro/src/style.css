@@ -2,6 +2,27 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.Articel{
+    margin-left:100px ;
+    margin-top: -120px;
+    position:relative;
+    background-color: white;
+    width: 750px;
+    padding: 20px;
+}
+
+#img1 {
+  width: 70%;     /* nimmt 50% der Breite des Eltern-Elements */
+  height: auto;
+  
+}
+
+#img2 {
+  width: 100%;     /* nimmt 50% der Breite des Eltern-Elements */
+  height: auto;
+  
+}
+
 #title1 {
     color: grey;
 }
