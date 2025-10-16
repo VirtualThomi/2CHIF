@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#title1 {
+    color: grey;
+}
+
+#title2{
+    color: black;
+    margin-left: 70px;
+}
+
+h5 {
+    color: grey;
+}
+
+.text{
+    margin-left: 70px;
+}
